@@ -6,7 +6,7 @@ p {
 .container{
   margin-right: 10px;
   overflow: hidden;
-  height: 150vw;
+  height: 200vw;
   width: 89%;
   box-shadow: 15px 8px 24px 7px;
   border: 9px solid transparent;
@@ -36,7 +36,7 @@ a:visited{
 .Pmack {
   margin-top: -44px;
   justify-content: right;
-  height: 20%;
+  height: 100%;
   width: 100%;
   border: 3px solid transparent;
   border-radius: 50%;
